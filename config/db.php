@@ -6,7 +6,7 @@
         'db_server' => 'localhost', // sesuaikan dengan server db anda
         'db_user' => 'root', // silahkan sesuaikan username db anda
         'db_password' => '', // silahkan sesuaikan dengan password db anda
-        'db_name' => ''  // silahkan sesuaikan dengan nama db anda
+        'db_name' => 'youre database name'  // silahkan sesuaikan dengan nama db anda
 
      );
 
